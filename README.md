@@ -67,6 +67,5 @@ _OS favorito:_
 
 <br />
 
--->
 [1]: https://apx.school
 [2]: https://www.coderhouse.com/
