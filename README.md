@@ -50,10 +50,10 @@ _OS favorito:_
 # - Mis estadísticas de Github
 
 <a href="https://github.com/MatiToledo/github-readme-stats">
-  <img width="300" align="center" src="https://github-readme-stats.vercel.app/api?username=MatiToledo&show_icons=true&theme=tokyonight" />
+  <img width="417" align="center" src="https://github-readme-stats.vercel.app/api?username=MatiToledo&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/MatiToledo/convoychat">
-  <img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiToledo&layout=compact&theme=tokyonight" />
+  <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiToledo&layout=compact&theme=tokyonight" />
 </a>
 
 # - Contacto!
