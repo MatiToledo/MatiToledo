@@ -5,10 +5,11 @@
 
 Desarrollador Web Full Stack con Título de Bachiller en Economía y Administración, en busca de un empleo a tiempo completo que me permita poner en práctica mis habilidades y crecer profesionalmente. Acutalmente estudiando en [APX][1] y [CoderHouse][2]
 
+- APX: Desarrollo Web Full Stack
+- CoderHouse: Python y Desarrollo de Aplicaciones
+
 <br />
-<br />
-<br />
-<br />
+
 
 
 # - Skills
