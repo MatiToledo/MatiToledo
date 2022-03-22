@@ -11,7 +11,7 @@ Desarrollador Web Full Stack con Título de Bachiller en Economía y Administrac
 <br />
 
 
-# - Lenguajes favoritos & entornos
+# - Skills
 
 _Frontend:_
 
