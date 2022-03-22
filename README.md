@@ -8,6 +8,8 @@ Desarrollador Web Full Stack con Título de Bachiller en Economía y Administrac
 <br />
 <br />
 <br />
+<br />
+
 
 # - Lenguajes favoritos & entornos
 
@@ -48,21 +50,24 @@ _OS favorito:_
 # - Mis estadísticas de Github
 
 <a href="https://github.com/MatiToledo/github-readme-stats">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=MatiToledo&show_icons=true&theme=tokyonight" />
+  <img width="300" align="center" src="https://github-readme-stats.vercel.app/api?username=MatiToledo&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/MatiToledo/convoychat">
-  <img width="413px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiToledo&layout=compact&theme=tokyonight" />
+  <img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiToledo&layout=compact&theme=tokyonight" />
 </a>
 
 # - Contacto!
 <a href="mailto:toledo.matias@icloud.com">
-  <img align="left" alt="Wechat" width="35px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+  <img align="left" alt="Gmail" width="35px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
 <a href="www.linkedin.com/in/matias-dev">
   <img align="left" alt="LinkedIn" width="35px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1647985792~hmac=085ba8ca7c8e3a49babcce24ad21d70e" />
 </a>
 <a href="https://www.instagram.com/mati.toledo/">
-  <img align="left" alt="'Gmail" width="35px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
+  <img align="left" alt="Instagram" width="35px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
+</a>
+<a href="https://discord.com/invite/MatiToledo#6394">
+  <img align="left" alt="Discord" width="35px" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" />
 </a>
 
 <br />
