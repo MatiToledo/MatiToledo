@@ -47,7 +47,7 @@ Desarrollador Web Full Stack con Título de Bachiller en Economía y Administrac
 <a href="mailto:toledo.matias@icloud.com">
   <img align="left" alt="Gmail" width="35px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
-<a href="www.linkedin.com/in/matias-dev">
+<a href="https://www.linkedin.com/in/mat%C3%ADas-toledo-a04739214/">
   <img align="left" alt="LinkedIn" width="35px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1647985792~hmac=085ba8ca7c8e3a49babcce24ad21d70e" />
 </a>
 <a href="https://www.instagram.com/mati.toledo/">
