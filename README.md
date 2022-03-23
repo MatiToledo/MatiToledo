@@ -11,42 +11,22 @@ Desarrollador Web Full Stack con Título de Bachiller en Economía y Administrac
 <br />
 
 
-
 # - Skills
 
-_Frontend:_
 
 <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-
-_Backend:_
-
 <a href="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
 <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
 <a href="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-
-_Bases de dato:_
-
 <a href="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
-<a href="https://firebase.google.com/?hl=es"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
-
-_Hosting:_
-
 <a href="https://www.heroku.com/"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
 <a href="https://firebase.google.com/?hl=es"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
-
-_Control de versiones:_
-
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a href="https://github.com/"><img src="https://img.icons8.com/glyph-neue/48/000000/github.png"/></a>
 
-_OS favorito:_
-
-<img src="https://img.icons8.com/color/48/000000/mac-os-logo.png/"/>
-
-<br />
 
 # - Mis estadísticas de Github
 
