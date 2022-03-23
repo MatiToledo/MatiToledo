@@ -27,7 +27,10 @@ Desarrollador Web Full Stack con Título de Bachiller en Economía y Administrac
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a href="https://github.com/"><img src="https://img.icons8.com/glyph-neue/48/000000/github.png"/></a>
 <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
-<a align="center" href="https://code.visualstudio.com/"><img width="41px" src="https://symbols.getvecta.com/stencil_27/121_visual-studio-team-services.117b5070bc.svg"/></a>
+<a href="https://docs.expo.dev/"><img width="42px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png"/></a>
+<a align="center" href="https://code.visualstudio.com/"><img width="40px" src="https://symbols.getvecta.com/stencil_27/121_visual-studio-team-services.117b5070bc.svg"/></a>
+  
+  
 </div>
 
 
