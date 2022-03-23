@@ -13,29 +13,35 @@ Desarrollador Web Full Stack con Título de Bachiller en Economía y Administrac
 
 # - Skills
 
-
+<div align="center">
 <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
 <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
-<a href="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a href="https://nodejs.org/"><img width="42px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"/></a>
 <a href="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
 <a href="https://www.heroku.com/"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
 <a href="https://firebase.google.com/?hl=es"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a href="https://github.com/"><img src="https://img.icons8.com/glyph-neue/48/000000/github.png"/></a>
+<a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+<a align="center" href="https://code.visualstudio.com/"><img width="41px" src="https://symbols.getvecta.com/stencil_27/121_visual-studio-team-services.117b5070bc.svg"/></a>
+</div>
 
 
 # - Mis estadísticas de Github
-
+<div align="center">
 <a href="https://github.com/MatiToledo/github-readme-stats">
   <img width="417" align="center" src="https://github-readme-stats.vercel.app/api?username=MatiToledo&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/MatiToledo/convoychat">
   <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiToledo&layout=compact&theme=tokyonight" />
 </a>
+</div>
+
+<br />
 
 # - Contacto!
 <a href="mailto:toledo.matias@icloud.com">
