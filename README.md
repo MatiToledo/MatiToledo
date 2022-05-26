@@ -1,5 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
-
+<img align="right" src="https://res.cloudinary.com/matitoledo/image/upload/v1653574312/cod_hg1x3m.png" />
 
 ### Hola soy Matías 👋
 
@@ -8,7 +7,9 @@ Desarrollador Web Full Stack con Título de Bachiller en Economía y Administrac
 - APX: Desarrollo Web Full Stack
 - CoderHouse: Python y Desarrollo de Aplicaciones
 
+
 <br />
+
 
 
 # - Skills
