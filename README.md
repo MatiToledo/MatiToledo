@@ -23,6 +23,7 @@ Desarrollador Web Full Stack con Título de Bachiller en Economía y Administrac
 <a href="https://nodejs.org/"><img width="42px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"/></a>
 <a href="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
 <a href="https://vercel.com/"><img width="45px" src="https://www.svgrepo.com/show/327408/logo-vercel.svg"/></a>  
+<br />
 <a href="https://nextjs.org/"><img width="45px" src="https://images.ctfassets.net/hb3id6ag4raq/6NcXL0fTlSXR9tVL14LYJ/c6a2a3dea44cbf46826cd6d5596b5797/apple-touch-icon.png"/></a>
 <a href="https://www.heroku.com/"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
 <a href="https://firebase.google.com/?hl=es"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
