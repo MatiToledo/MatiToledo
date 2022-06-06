@@ -28,6 +28,7 @@ Desarrollador Web Full Stack con Título de Bachiller en Economía y Administrac
 <a href="https://nextjs.org/"><img width="45px" src="https://images.ctfassets.net/hb3id6ag4raq/6NcXL0fTlSXR9tVL14LYJ/c6a2a3dea44cbf46826cd6d5596b5797/apple-touch-icon.png"/></a>
 <a href="https://www.heroku.com/"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
 <a href="https://firebase.google.com/?hl=es"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
+<a href="https://styled-components.com/"><img width="45px" src="https://res.cloudinary.com/matitoledo/image/upload/v1654545205/styled_haide4.png"/></a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a href="https://github.com/"><img src="https://img.icons8.com/glyph-neue/48/000000/github.png"/></a>
 <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
